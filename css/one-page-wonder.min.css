@@ -54,6 +54,19 @@
  	background-image: url("../img/11-c.jpg");
  }
 
+   header.masthead-projects-1{
+ 	position:relative;
+ 	overflow:hidden;
+ 	padding-top:calc(7rem + 72px);
+ 	padding-bottom:7rem;
+ 	background:linear-gradient(0deg,#2c3e50 0,#3498db 100%);
+ 	background-repeat:no-repeat;
+ 	background-position:center center;
+ 	background-attachment:scroll;
+ 	background-size:cover;
+ 	background-image: url("../img/23-bis.jpg");
+ }
+
  	header.masthead .masthead-content{
  		z-index:1;
  		position:relative
